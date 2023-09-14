@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shraddha Sen</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **Travel Scheduler App**
+- 🔭 I’m currently working on **WellnessWave Application**
 
 - 🌱 I’m currently learning **Java, Python**
 
